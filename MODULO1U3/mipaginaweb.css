@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    color: chartreuse;
+}
+
+h2{
+    color: crimson;
+
+}
+h3{
+    color: blue;
+}
+p{
+    color: red;
+}
+.edad{
+    color: aqua;
+}
+.series{
+    color: green;
+}
+.peliculas{
+    color: green;
+}
+.nombres{
+    color: blue;
+    font-weight: bolder;
+}
+.series1{
+    color: red;
+}
+.pepi{
+    color: black;
+}
+#verde{
+background-color: green;
+}
+#azul{
+color: aqua;
+    background-color:black;
+}
+img{
+    border-radius: 56px 56px 56px 56px;
+-webkit-border-radiu: 56px 56px 56px 56px;
+-moz-border-radius: 56px 56px 56px 56px;
+}
+
+img{
+filter: grayscale(100%);
+}
+
+img:hover{
+    filter: grayscale(0%);
+}
